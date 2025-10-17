@@ -1,4 +1,4 @@
-# Week 3 Assignment - AI/ML Portfolio
+# Week 3 Assignment - AI For Software Engineering
 
 This repository contains my solutions for Week 3 of the AI/FORSE program, demonstrating comprehensive machine learning skills across classical ML, deep learning, and natural language processing.
 
