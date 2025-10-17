@@ -43,7 +43,7 @@ Week3_Assignment/
   - Batch normalization and dropout for regularization
   - Optimized training with callbacks
   - Comprehensive evaluation and visualization
-- **Results**: **99.42% test accuracy** - exceeds 95% requirement
+- **Results**: **99.42% test accuracy**
 - **Key Achievement**: Near-perfect digit recognition with minimal misclassifications
 
 ### **💬 task3.py - Natural Language Processing**
