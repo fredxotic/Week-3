@@ -60,10 +60,8 @@ Week3_Assignment/
 ### **⚙️ requirements.txt**
 **Python Dependencies**
 ```
-streamlit>=1.28.0
 tensorflow>=2.13.0
 numpy>=1.24.3
-opencv-python>=4.8.1.78
 Pillow>=10.0.0
 matplotlib>=3.7.2
 scikit-learn>=1.3.0
